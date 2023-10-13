@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "email": "typicode",
+      "password": "ABC"
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "name": "Akash",
+      "email": "Akash",
+      "password": "Pass",
+      "id": 4
+    }
+  ],
+  "Tracker": [
+    
+    {
+      "type": "Income",
+      "category": "Gifts",
+      "amount": "3000",
+      "date": "2023-10-11",
+      "userID": 4,
+      "id": 2
+    },
+    {
+      "type": "Income",
+      "category": "Salary",
+      "amount": "3000",
+      "date": "2023-10-11",
+      "userID": 4,
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
